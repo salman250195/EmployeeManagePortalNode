@@ -1,0 +1,5 @@
+dist/
+dream_dist/
+.history/
+logs/
+node_modules/
